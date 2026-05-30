@@ -1,4 +1,6 @@
+Python version: 3.11
+requirements.txt:
 streamlit==1.39.0
 pypdf==5.1.0
 reportlab==4.2.0
-pillow==12.2.0
+pillow==10.4.0
